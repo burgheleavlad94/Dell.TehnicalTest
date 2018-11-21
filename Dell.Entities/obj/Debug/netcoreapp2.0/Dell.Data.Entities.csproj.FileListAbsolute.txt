@@ -1,0 +1,14 @@
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\bin\Debug\netcoreapp2.0\Dell.Data.Entities.deps.json
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\bin\Debug\netcoreapp2.0\Dell.Data.Entities.dll
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\obj\Debug\netcoreapp2.0\Dell.Data.Entities.csprojAssemblyReference.cache
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\obj\Debug\netcoreapp2.0\Dell.Data.Entities.csproj.CoreCompileInputs.cache
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\obj\Debug\netcoreapp2.0\Dell.Data.Entities.AssemblyInfoInputs.cache
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\obj\Debug\netcoreapp2.0\Dell.Data.Entities.AssemblyInfo.cs
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\bin\Debug\netcoreapp2.0\Dell.Data.Entities.pdb
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\bin\Debug\netcoreapp2.0\Dell.Common.dll
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\bin\Debug\netcoreapp2.0\Dell.Data.Acces.Common.dll
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\bin\Debug\netcoreapp2.0\Dell.Data.Acces.Common.pdb
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\bin\Debug\netcoreapp2.0\Dell.Common.pdb
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\obj\Debug\netcoreapp2.0\Dell.Data.Entities.csproj.CopyComplete
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\obj\Debug\netcoreapp2.0\Dell.Data.Entities.dll
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Entities\obj\Debug\netcoreapp2.0\Dell.Data.Entities.pdb
