@@ -1,4 +1,4 @@
-# Customers application
+# Dell Technical test: Customers application
 
 The application purpose is to enable operators to add and/or update new or existing Customers storing following information: “Name”, “Age” and “E-mail address”; it has three components:
 1. Database containing a single table (Customers) having above fields (columns), including an internal identifier (ID, auto-generated and incremental) and a Record versioning used for optimistic concurrently data access;
