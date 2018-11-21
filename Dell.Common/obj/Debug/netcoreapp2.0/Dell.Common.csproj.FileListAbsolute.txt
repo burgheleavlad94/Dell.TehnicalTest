@@ -1,0 +1,9 @@
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Common\bin\Debug\netcoreapp2.0\Dell.Common.deps.json
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Common\bin\Debug\netcoreapp2.0\Dell.Common.dll
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Common\bin\Debug\netcoreapp2.0\Dell.Common.pdb
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Common\obj\Debug\netcoreapp2.0\Dell.Common.csprojAssemblyReference.cache
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Common\obj\Debug\netcoreapp2.0\Dell.Common.csproj.CoreCompileInputs.cache
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Common\obj\Debug\netcoreapp2.0\Dell.Common.AssemblyInfoInputs.cache
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Common\obj\Debug\netcoreapp2.0\Dell.Common.AssemblyInfo.cs
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Common\obj\Debug\netcoreapp2.0\Dell.Common.dll
+E:\repos\Dell.TehnicalTest\Dell.TehnicalTest.WebApi\Dell.TehnicalTest.WebApi\Dell.Common\obj\Debug\netcoreapp2.0\Dell.Common.pdb
