@@ -11,7 +11,7 @@ For running the application you must following few steps:
 -	Install MS SQL Server (I used Express edition); the solution contains the database;
 -	Download the project from the GitHub site on you **C** or your chosen partition. 
 ## Installing & running the software
- For a better understanding, I've atached a video with the steps you need to follow, to run the application.
+ For a better understanding, I've atached a video with the steps you need to follow, to run the application.                             
  You’ll find 2 solutions which must run in this order: first Dell.TehnicalTest.WebApi.sln and then Dell.TehnicalTest.WPF.sln.
 ## Running Dell.TehnicalTest.WebApi.sln:
 - Open **Dell.WebApi** project, locate and open **appsettings.json** file;
