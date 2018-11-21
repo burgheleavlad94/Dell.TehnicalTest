@@ -9,12 +9,20 @@ When one customer is added/updated, this returns a response with Customer fully 
 For running the application you must following few steps:
 -	Install MS Visual Studio (I used Visual Studio Community 2017);
 -	Install MS SQL Server (I used Express edition); the solution contains the database;
--	Download the project from the GitHub site. 
-Installing & running the software
-You’ll find 2 solutions which must run in this order: first web API and then WPF.
+-	Download the project from the GitHub site on you **C** or your chosen partition. 
+## Installing & running the software
+You’ll find 2 solutions which must run in this order: first Dell.TehnicalTest.WebApi.sln and then Dell.TehnicalTest.WPF.sln.
+## Running Dell.TehnicalTest.WebApi.sln:
+- Open **Dell.WebApi** project, locate and open **appsettings.json** file;
+- Modify in **Config --> Connections --> (localDb) ConnectionString** the path **E:\\repos** with your partition letter (e.g.: **C:\\**) and save the file;
+- Same procedure as above for **Dell.TestCustomersDB** project (it has an identical json file); these operations will ensure locating database file for both API and test project.
+- Press F5 / CTRL + F5 to run the solution.
+
 The database is pre-populated with few record which are loaded asynchronously into main window.
 Please use “Add new” and “Update” for add new records or altering information of existing ones.
-Observations: when altering Customer information, the application doesn’t allow duplicated e-mail addresses (a message will be displayed: “Another customer is registered with same e-mail!”) but allows duplicated Customer Names.
+### Observations: 
+when altering Customer information, the application doesn’t allow duplicated e-mail addresses (a message will be displayed: “Another customer is registered with same e-mail!”) but allows duplicated Customer Names.
+
 ## Running the tests
 For running the tests you must:
 -	open solution Dell.TehnicalTest.WebApi , folder Tests, find project Dell.TestCustomersDb; UnitTest1.cs class contains testing methods;
