@@ -16,8 +16,10 @@ You’ll find 2 solutions which must run in this order: first Dell.TehnicalTest.
 - Open **Dell.WebApi** project, locate and open **appsettings.json** file;
 - Modify in **Config --> Connections --> (localDb) ConnectionString** the path **E:\\repos** with your partition letter (e.g.: **C:\\**) and save the file;
 - Same procedure as above for **Dell.TestCustomersDB** project (it has an identical json file); these operations will ensure locating database file for both API and test project.
-- Press F5 / CTRL + F5 to run the solution.
+- Press F5 / CTRL + F5 to run the solution; a new browser web page should appear displaying json information, having the following address **http://localhost:49911/api/customers**.
 
+## Running Dell.TehnicalTest.WPF
+Open this solution and press F5 / CTRL + F5 to run the solution after WebAPI is running
 The database is pre-populated with few record which are loaded asynchronously into main window.
 Please use “Add new” and “Update” for add new records or altering information of existing ones.
 ### Observations: 
