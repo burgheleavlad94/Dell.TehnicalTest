@@ -11,8 +11,8 @@ For running the application you must following few steps:
 -	Install MS SQL Server (I used Express edition); the solution contains the database;
 -	Download the project from the GitHub site on you **C** or your chosen partition. 
 ## Installing & running the software
- For a better understanding, I've atached a video with the steps you need to follow, to run the application.                             
- You’ll find 2 solutions which must run in this order: first Dell.TehnicalTest.WebApi.sln and then Dell.TehnicalTest.WPF.sln.
+For a better understanding, I've atached a video **Dell.ExecuteApplication.Video** with the steps you need to follow, to run the application.                                                                                                                             
+You’ll find 2 solutions which must run in this order: first Dell.TehnicalTest.WebApi.sln and then Dell.TehnicalTest.WPF.sln.
 ## Running Dell.TehnicalTest.WebApi.sln:
 - Open **Dell.WebApi** project, locate and open **appsettings.json** file;
 - Modify in **Config --> Connections --> (localDb) ConnectionString** the path **E:\\repos** with your partition letter (e.g.: **C:\\**) and save the file;
@@ -27,6 +27,7 @@ Please use “Add new” and “Update” for add new records or altering inform
 when altering Customer information, the application doesn’t allow duplicated e-mail addresses (a message will be displayed: “Another customer is registered with same e-mail!”) but allows duplicated Customer Names.
 
 ## Running the tests
+For a better understanding, I've atached a video **Dell.TestInstructions.Video** with the steps you need to follow, to run the test.     
 For running the tests you must:
 -	open solution Dell.TehnicalTest.WebApi , folder Tests, find project Dell.TestCustomersDb; UnitTest1.cs class contains testing methods;
 -	select Test menu, Windows and click Text explorer item;
